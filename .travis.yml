@@ -1,3 +1,3 @@
 language: node_js
 rvm: 
-- 7
+- 10.19.0
