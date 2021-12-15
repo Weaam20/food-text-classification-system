@@ -7,5 +7,8 @@ This system classifies foods. The user will enter a word and it is classified in
 
 ![pp](https://user-images.githubusercontent.com/84277488/146241802-5bf8674d-3f3e-4cca-a7f1-3f3c4e6cb797.jpg)
 
+*bread* is near to class bread 97%.
+*bread* is near to class baking 2.73%.
+*bread* is near to class fried eggs 8x10^-6%.
 
 
