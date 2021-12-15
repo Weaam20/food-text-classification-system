@@ -10,6 +10,7 @@ let config = {
   output: "model"
 }
 
+
 FastText.train("supervised", config, function (success, error) {
 
   if(error) {
@@ -34,6 +35,7 @@ app.get('/fasttext/', function(req, res) {
 
 
 function getFastTextResults(statement) {
+	var x = null
 	//predict returns an array with the input and predictions for best cateogires
 	FastText.predict(
 		"model.bin", 3,
@@ -44,9 +46,10 @@ function getFastTextResults(statement) {
 			console.log(error)
 			return;
 		  }
+		  x = success
 		  console.log(success)
 		})
-	return "success!";
+	return x;
 }
 
 app.listen(8000, () => {
