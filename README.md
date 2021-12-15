@@ -5,5 +5,7 @@ This system classifies foods. The user will enter a word and it is classified in
 
 ![oo](https://user-images.githubusercontent.com/84277488/146241587-134acdfb-ae1e-4da0-a94e-4bb4ffec08d9.PNG)
 
-![ttt](https://user-images.githubusercontent.com/84277488/146241491-ff03f0d3-0481-48f8-b5f8-a3278588f503.PNG)
+![pp](https://user-images.githubusercontent.com/84277488/146241802-5bf8674d-3f3e-4cca-a7f1-3f3c4e6cb797.jpg)
+
+
 
