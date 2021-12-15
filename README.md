@@ -12,3 +12,9 @@ This system classifies foods. The user will enter a word and it is classified in
 *bread* is near to class fried eggs 8x10^-6%.
 
 
+|    Food      |    Label      |  Nearness |
+| :----------- |:-------------:| ---------:|
+|    bread     |    bread      |    97%    |
+|    bread     |    baking     |   2.73%   |
+|    bread     |  fried eggs   |  8x10^-6% |
+
